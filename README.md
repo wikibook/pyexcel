@@ -1,5 +1,7 @@
 # 일 잘하는 직장인을 위한 엑셀 자동화 with 파이썬
 
+- 책 소개: https://wikibook.co.kr/pyexcel/
+
 ![book_cover_image](/book_cover_image.png)
 
 **아래의 방법을 이용해 소스 코드를 내려받고 활용하세요. 그 외 자세한 사용법은 책의 『책 사용 설명서』 부분을 참고하세요.**
