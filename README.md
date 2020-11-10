@@ -7,7 +7,8 @@
 **아래의 방법을 이용해 소스코드와 데이터를 내려받고 활용하세요. 그 밖의 자세한 사용법은 책의 『책 사용 설명서』 부분을 참고하세요.**
 
 1. 압축 파일(zip 파일) 다운로드
-    - https://github.com/wikibook/pyexcel/archive/master.zip
+    - 아래 다운로드 위치에서 압축 파일을 다운로드합니다.
+        - https://github.com/wikibook/pyexcel/archive/master.zip
 
 2. 압축 풀기
     - 다운로드한 압축 파일을 임의의 폴더에 풉니다.
